@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# 환경설정 파일
+.env*
+
+# 기타
+*.sqlite3
+*.log
